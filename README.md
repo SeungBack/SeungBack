@@ -6,8 +6,5 @@
 
 - 👨‍🎓 I’m a Ph.D Student at [GIST AILAB](https://ailab.gist.ac.kr/ailab/)
 - 🦾 My research interests are in deep learning for robotic manipulation
-- 📃 My paper on unseen object amodal instance segmentation just got accepted at ICRA 2022. Check [websites](https://sites.google.com/view/uoais) for detail ! 
 
-
-[![](https://raw.githubusercontent.com/SeungBack/profile/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/SeungBack/profile/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/SeungBack/profile/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![Metrics](/github-metrics.svg)
