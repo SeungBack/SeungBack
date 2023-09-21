@@ -4,7 +4,8 @@
 [![Email](https://img.shields.io/badge/-E--Mail-ff69b4)](mailto:shback@gm.gist.ac.kr?subject=[GitHub]%20Source%20Han%20Sans)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/seunghyeok-back-490982117/)
 
-- 👨‍🎓 I’m a Ph.D Student at [GIST AILAB](https://ailab.gist.ac.kr/ailab/)
+- 👨‍🎓 I’m a Ph.D Student at [GIST AILAB](https://ailab.gist.ac.kr/ailab/) (Mar. 2018 ~ Current)
+- :rocket: I'm working as an applied scientist intern at Amazon Robotics in Berlin (Sep. 2023 ~ Mar. 2024)
 - 🦾 My research interests are in deep learning for robotic manipulation
 
 ![Metrics](/github-metrics.svg)
